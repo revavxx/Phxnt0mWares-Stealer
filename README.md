@@ -48,7 +48,7 @@ To build your own software using Ph0xntomWare, you'll need the following:
 
 Building your software is easy:
 
-1. Download the repository as a ZIP file.
+1. Download the latest release
 2. Extract it to a new folder on your computer.
 3. Run `install_python.bat` if you haven't set up Python.
 4. Finally, execute `Builder.bat` to create your customized software.
