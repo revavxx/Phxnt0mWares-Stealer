@@ -11,7 +11,7 @@
 
 ## Introduction
 
-Welcome to Ph0xntomWare, a versatile software tool designed for educational and research purposes only. Please note that the creator of this program does not endorse or support any illegal activities. Use this program responsibly and understand that you are solely responsible for your actions.
+Welcome to Ph0xntomWare, a versatile software tool designed for educational and research purposes only. Please note that the creator of this program does not endorse or support any illegal activities. Use this program responsibly and understand that you are solely responsible for your actions
 
 ## Images
 
