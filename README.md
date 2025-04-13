@@ -15,12 +15,11 @@ Welcome to Ph0xntomWare, a versatile software tool designed for educational and 
 
 ## Images
 
-![Ph0xntomWare Logo](https://cdn.discordapp.com/attachments/1358910126349750464/1361000971274289193/205530099.png?ex=67fd2a6d&is=67fbd8ed&hm=ac2a720fb524a30450ae24fc3eaedddd6173095f4368bb770d3be089cb9282e1&)
+![Ph0xntomWare Logo](https://cdn.discordapp.com/attachments/1360757183616385166/1360925726840197140/145384975.png?ex=67fce45a&is=67fb92da&hm=eedd2dff59c130989a4d0358bfbb27b793cf1f197892d2b67e20f57398349609&)
 
-![Top Languages](https://img.shields.io/github/languages/top/Phxnt0m1/Phxnt0mWare)
- ![Image Alt Text](https://cdn.discordapp.com/attachments/1151514125701230623/1152671588894912522/image.png)
- ![Image Alt Text](https://cdn.discordapp.com/attachments/1151514125701230623/1152687837351776306/noun-hannya-mask-4933306.png)
-![Image Alt Text](https://camo.githubusercontent.com/db7ef95c4fbb211f148b0f49e4337370b31372cb02fb64a74ec661f52c20ffe0/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313135313438343835343330333732373636392f313135313531383233353834323333303735352f696d6167652e706e67)
+![Top Languages](https://img.shields.io/github/languages/top/revavxx/Phxnt0mWares-Stealer)
+![GitHub Repo Stars](https://img.shields.io/github/stars/revavxx/Phxnt0mWares-Stealer)
+![GitHub Issues](https://img.shields.io/github/issues/revavxx/Phxnt0mWares-Stealer)
 
 ## Features
 
