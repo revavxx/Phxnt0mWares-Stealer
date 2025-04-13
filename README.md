@@ -15,7 +15,8 @@ Welcome to Ph0xntomWare, a versatile software tool designed for educational and 
 
 ## Images
 
-![Ph0xntomWare Logo](https://media.discordapp.net/attachments/1360757183616385166/1360925726840197140/145384975.png?ex=67fce45a&is=67fb92da&hm=eedd2dff59c130989a4d0358bfbb27b793cf1f197892d2b67e20f57398349609&=&format=webp&quality=lossless&width=621&height=621)
+![Ph0xntomWare Logo](https://cdn.discordapp.com/attachments/1358910126349750464/1361000971274289193/205530099.png?ex=67fd2a6d&is=67fbd8ed&hm=ac2a720fb524a30450ae24fc3eaedddd6173095f4368bb770d3be089cb9282e1&)
+
 ![Top Languages](https://img.shields.io/github/languages/top/Phxnt0m1/Phxnt0mWare)
  ![Image Alt Text](https://cdn.discordapp.com/attachments/1151514125701230623/1152671588894912522/image.png)
  ![Image Alt Text](https://cdn.discordapp.com/attachments/1151514125701230623/1152687837351776306/noun-hannya-mask-4933306.png)
